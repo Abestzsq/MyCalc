@@ -1,0 +1,15 @@
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.exe
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.deps.json
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.runtimeconfig.json
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.runtimeconfig.dev.json
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.dll
+C:\Users\A\Desktop\MyCalc\MyCalc\bin\Debug\netcoreapp3.1\MyCalc.pdb
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.csprojAssemblyReference.cache
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.Form1.resources
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.csproj.GenerateResource.cache
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.AssemblyInfo.cs
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.dll
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.pdb
+C:\Users\A\Desktop\MyCalc\MyCalc\obj\Debug\netcoreapp3.1\MyCalc.genruntimeconfig.cache
